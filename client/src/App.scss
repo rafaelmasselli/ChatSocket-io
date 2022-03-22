@@ -44,6 +44,7 @@
 }
 #you {
   justify-content: flex-start;
+  color: red;
 }
 
 #you .message-content {
@@ -57,11 +58,12 @@
 
 #other {
   justify-content: flex-end;
+  color: white;
 }
 
 #other .message-content {
   justify-content: flex-end;
-  background-color: cornflowerblue;
+  background-color: rgb(130, 209, 56);
 }
 
 #other .message-meta {
