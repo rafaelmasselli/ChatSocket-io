@@ -55,4 +55,4 @@ $ npm start
 
 - [x] Node Js
 - [x] express
-- [x] Socket.op
+- [x] Socket.io
